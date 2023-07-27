@@ -204,6 +204,9 @@ body {
   margin-left: auto;
   font-size: 0.6rem;
 }
+.box-hover-effect{
+  cursor: pointer;
+}
 .box-hover-effect  :hover{
   border: solid 1px rgba(255, 255, 255, 0.329);
 }
